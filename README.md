@@ -1,4 +1,4 @@
-# Personalized AI chatbot version of me
+# Personalized AI chatbot for your website!
 <img width="297" alt="Screenshot 2024-04-04 at 18 11 18" src="https://github.com/chloewang-200/chloe-bot-backend/assets/84855841/182f10e8-dbda-4a25-9f6b-07294d79e986">\
 Demo: \
 https://chloewang-200.github.io/
