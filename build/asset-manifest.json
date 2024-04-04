@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chloe-bot/static/css/main.d12ca285.css",
-    "main.js": "/chloe-bot/static/js/main.85b5363d.js",
+    "main.js": "/chloe-bot/static/js/main.65a7fa13.js",
     "static/js/453.8ab44547.chunk.js": "/chloe-bot/static/js/453.8ab44547.chunk.js",
     "index.html": "/chloe-bot/index.html",
     "main.d12ca285.css.map": "/chloe-bot/static/css/main.d12ca285.css.map",
-    "main.85b5363d.js.map": "/chloe-bot/static/js/main.85b5363d.js.map",
+    "main.65a7fa13.js.map": "/chloe-bot/static/js/main.65a7fa13.js.map",
     "453.8ab44547.chunk.js.map": "/chloe-bot/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d12ca285.css",
-    "static/js/main.85b5363d.js"
+    "static/js/main.65a7fa13.js"
   ]
 }

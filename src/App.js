@@ -16,7 +16,7 @@ const App = () => {
       <DeepChat
         // demo={true}
         request={
-          {url: "https://frozen-gorge-26863-ad0ce4fb3b77.herokuapp.com/openai-chat"}
+          {url: "http://frozen-gorge-26863-ad0ce4fb3b77.herokuapp.com/openai-chat"}
         }
         
         // stream={true}
