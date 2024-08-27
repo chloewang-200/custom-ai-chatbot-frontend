@@ -5,11 +5,11 @@ https://chloewang-200.github.io/
 
 This is my first time working with LLM models and learning about how it works. This project took me a lot of grinding, learning new concepts and trying out different libraries & APIs. Feel free to use my code! 😊
 
-This is the UI frontend part of the chatbot. The backend can be found at https://github.com/chloewang-200/chloe-bot-backend
+This is the UI frontend part of the chatbot. The backend can be found at [https://github.com/chloewang-200/chloe-bot-backend]
 
 Also if you are new to LLM like me, below is a quick start.
 
-# Stucture
+# Structure
 I am using
 - React Frontend
 - Python Flask backend
